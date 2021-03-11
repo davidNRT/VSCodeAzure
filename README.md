@@ -1,1 +1,1 @@
-# VSCodeAzure READ ME
+# VSCodeAzure READ ME REAd
