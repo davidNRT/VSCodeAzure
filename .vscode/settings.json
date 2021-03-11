@@ -1,0 +1,9 @@
+{
+  "azureFunctions.deploySubpath": "target/azure-functions/david-si-1614402422829",
+  "azureFunctions.projectLanguage": "Java",
+  "azureFunctions.projectRuntime": "~3",
+  "debug.internalConsoleOptions": "neverOpen",
+  "azureFunctions.preDeployTask": "package",
+  "maven.view": "flat",
+  "java.configuration.updateBuildConfiguration": "interactive"
+}
